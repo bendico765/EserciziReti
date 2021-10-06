@@ -1,0 +1,1 @@
+Essendo il comportamento del programma "non-deterministico" ( a causa del multithreading) non ho trovato il senso di scrivere gli output associati ai valori di input, che quindi servono solo per fornire esempi di possibili input

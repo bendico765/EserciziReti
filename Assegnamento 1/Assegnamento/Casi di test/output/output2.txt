@@ -1,0 +1,1 @@
+Il thread ha ricevuto il segnale di terminazione

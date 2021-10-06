@@ -1,0 +1,1 @@
+Essendo l'andamento del programma "non deterministico" a causa della presenza di più thread, è stato specificato l'output atteso solamente per quelle situazioni "statiche" (come ad esempio il passaggio di argomenti invalidi al programma).
