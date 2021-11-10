@@ -1,0 +1,1 @@
+Essendo il comportamento del programma "non-deterministico" ( a causa del multithreading) alcuni casi di input sono sprovvisti di "output attesi" associati e servono solo per fornire esempi di possibili input

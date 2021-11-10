@@ -1,0 +1,1 @@
+GET /inexistent.jpg HTTP/1.1
