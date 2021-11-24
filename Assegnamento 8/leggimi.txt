@@ -1,0 +1,1 @@
+A causa della natura "non-deterministica" dell'output (a causa della causalità nella generazione dei conti correnti ecc.) non mi sono venuti in mente test significativi
