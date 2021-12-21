@@ -1,0 +1,3 @@
+Connessione al server avvenuta con successo
+>Errore nella scelta della giornata: scegliere un valore compreso tra 1 e 3
+>

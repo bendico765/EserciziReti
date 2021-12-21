@@ -1,0 +1,1 @@
+I casi di test sono uno indipendente dell'altro, quindi tra un'esecuzione e l'altra bisogna riavviare il server per svuotare il programma del congresso salvato su server!

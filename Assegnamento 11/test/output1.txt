@@ -1,0 +1,4 @@
+Connessione al server avvenuta con successo
+>Prenotazione avvenuta con successo
+>Slot già occupato
+>
